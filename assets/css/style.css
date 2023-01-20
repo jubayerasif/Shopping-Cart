@@ -60,7 +60,7 @@ body
 {
 	text-align: right;
 }
-.check-out
+.col-md-12 > .check-out
 {
     float: right;
     padding: 10px 30px;
