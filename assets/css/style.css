@@ -2,9 +2,15 @@ body
 {
 	background: #fff;
 }
+.cart-h2
+{
+	margin-top: 50px;
+	text-align: center;
+}
 .cart
 {
-	margin: 100px 0;
+	margin: 75px 0;
+	margin-top: 5px;
 	background-color: #F6F5FA;;
 	padding: 60px 0;
 }
