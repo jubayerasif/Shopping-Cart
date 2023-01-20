@@ -1,17 +1,12 @@
 body
 {
-	background: #fff;
-}
-.cart-h2
-{
-	margin-top: 50px;
-	text-align: center;
+	background: #E5E4E2;
 }
 .cart
 {
 	margin: 75px 0;
 	margin-top: 5px;
-	background-color: #F6F5FA;;
+	background-color: #F6F5FA;
 	padding: 60px 0;
 }
 .total-price
